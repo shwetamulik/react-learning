@@ -1,0 +1,12 @@
+# Ignore IDE-specific files and directories
+.vscode/
+
+# Ignore dependencies folder
+/node_modules
+
+# Ignore build output
+/build/
+/dist/
+
+# Ignore environment-specific files
+.env
